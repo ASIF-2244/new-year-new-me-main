@@ -64,13 +64,14 @@
 .main-section{
     display: flex;
     column-gap: 150px;
+    text-align: left
 }
 .section-img{
     background-color:;
     margin-top: 150px;
     margin-left: 225px;
     margin-right: 0px;
-    margin-bottom: 130px;
+    margin-bottom: 10px;
 
 
 }
@@ -79,7 +80,7 @@
     margin-top: 400px;
     margin-left: 0px;
     margin-right: 200px;
-    margin-bottom: 214px;
+    margin-bottom: 10px;
 
 }
 .section-title{
@@ -97,13 +98,121 @@
 
 }
 .section-list{
-    font-weight: 400;
-    font-size: 16px;
+    /* font-weight: 400;
+    font-size: 16px; */
     color: #444343;
+    list-style: none;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 200px;
+
 
 }
 /* section list item */
 .section-list-title{
     margin-bottom: 8px;
-    list-style: url(<i class="fa-light fa-check"></i>);
+    font-weight: 400;
+    font-size: 16px;
+    
 }
+
+/* my plan section */
+
+.my-plan{
+    margin-left: 219px;
+    margin-right: 240px;
+    margin-bottom: 130px;
+
+}
+.my-plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 60px;
+}
+.my-plan-contaner{
+    display: flex;
+    gap: 80px;
+}
+
+
+/*  box */
+.my-plan-web{
+ 
+}
+
+.my-plan-java{
+    
+}
+.my-plan-smoke{
+    
+
+}
+
+.my-plan-ecom{
+
+}
+
+/* my plan title */
+
+.my-plan-web-title{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.my-plan-java-title{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.my-plan-smoke-title{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.my-plan-ecom-title{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+/* my plan description */
+.my-plan-web-des{
+    text-align: center;
+    margin-top: 16px;
+    color: #737272;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.my-plan-java-des{
+    text-align: center;
+    margin-top: 16px;
+    color: #737272;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.my-plan-smoke-des{
+    text-align: center;
+    margin-top: 16px;
+    color: #737272;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.my-plan-ecom-des{
+    text-align: center;
+    margin-top: 16px;
+    font-size: 18px;
+    color: #737272;
+    font-weight: 500;
+
+}
+
+
+/*  */
+
+
+
