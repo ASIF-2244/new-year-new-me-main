@@ -124,7 +124,32 @@
     margin-bottom: 130px;
 
 }
-.my-plan-title{
+/* my plan image  */
+
+    .my-plan-web-img{
+
+    }
+    .my-plan-java-img{
+        margin-left: 30px;
+
+    }
+    .my-plan-smoke-img{
+        margin-left: 60px;
+
+    }
+    .my-plan-ecom-img{
+        margin-left: 25px;
+
+    }
+
+    .my-plan-title{
+        text-align: center;
+        font-weight: 700;
+        font-size: 40px;
+        color: #151414;
+        margin-bottom: 60px;}
+
+.my-plan-web{
     text-align: center;
     font-weight: 700;
     font-size: 40px;
@@ -160,21 +185,25 @@
     font-weight: 700;
     font-size: 30px;
     text-align: center;
+    margin-top: 24px;
 }
 .my-plan-java-title{
     font-weight: 700;
     font-size: 30px;
     text-align: center;
+    margin-top: 24px;
 }
 .my-plan-smoke-title{
     font-weight: 700;
     font-size: 30px;
     text-align: center;
+    margin-top: 24px;
 }
 .my-plan-ecom-title{
     font-weight: 700;
     font-size: 30px;
     text-align: center;
+    margin-top: 24px;
 }
 
 /* my plan description */
@@ -212,7 +241,17 @@
 }
 
 
-/*  */
+/* gradient image creat */
+
+#grad-img{
+    position: absolute;
+}
+.watch-img{position: absolute; background-image: url(../images/gradient2.png);
+
+}
+.grad{position: absolute;
+
+}
 
 
 
