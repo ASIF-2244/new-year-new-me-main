@@ -27,6 +27,7 @@
     margin-right: 230px;
     margin-left: 845px;
     margin-bottom: 24px;
+    text-align: right;
 
 }
 .header-descripton{
@@ -38,7 +39,9 @@
     padding-bottom: 32px; */
     /* margin-top: 24px;
     margin-left: 876px; */
-    margin: 24px 230px 32px 847px;
+    margin: 24px 230px 32px 845px;
+    text-align: right;
+
 
 
 }
