@@ -243,8 +243,10 @@
 
 /* gradient image creat */
 
-#grad-img{
+/* #grad-img{
     position: absolute;
+    margin-top: 100px;
+    margin-right:250px ;
 }
 .watch-img{position: absolute; background-image: url(../images/gradient2.png);
 
@@ -253,5 +255,94 @@
 
 }
 
+.image-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+
+}
+.image-btn{
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px 36px;
+    background: #FFFFFF;
+
+} */
+
+
+/* footer section */
+.footer{
+    display: flex;
+    background: #151414;
+}
+.footer-contaner{
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-left: 230px;
+    margin-right: 331px;
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+.footer-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.footer-email{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+.phone{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 32px
+}
+
+.icon-image-twitter{
+    margin-left: 18px;
+    margin-right: 18px;
+
+}
+
+.footer-page{
+    margin-top: 129px;
+    margin-right: 230px;
+    margin-bottom: 200;
+
+}
+.footer-sub{
+    font-weight: 700;
+    font-size: 45px;
+    color: #FFFFFF;
+}
+.footer-int-email{
+    margin-top: 31px;
+    margin-bottom: 16px;
+    background-color: #151414;
+    border: #FFFFFF solid 1px;
+    padding-top: 22px;
+    padding-right: 158px;
+    padding-bottom: 22px;
+    padding-left: 21px;
+}
+.sub-btn{
+    font-weight: 600;
+    font-size: 20px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 15px 35px;
+
+}
 
 
