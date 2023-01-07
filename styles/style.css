@@ -1,0 +1,56 @@
+*{
+
+    margin: 0;
+    font-family:'Work Sans';
+}
+
+/* header styles */
+.header{
+    
+}
+.heaer-img{
+    position: relative;
+
+}
+
+.header-item{
+    position: absolute;
+    top: 0;
+
+}
+.header-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    margin-top: 216px;
+    margin-right: 230px;
+    margin-left: 845px;
+    margin-bottom: 24px;
+
+}
+.header-descripton{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    /* padding-right: 230px;
+    padding-left: 876px;
+    padding-bottom: 32px; */
+    /* margin-top: 24px;
+    margin-left: 876px; */
+    margin: 24px 230px 32px 847px;
+
+
+}
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px ;
+    border: 0;
+    background-color:#FD6E0A;
+    padding: 20px 25px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-top: 15px;
+    margin-left: 1125px;
+
+}
