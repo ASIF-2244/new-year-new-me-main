@@ -113,7 +113,17 @@
     margin-bottom: 8px;
     font-weight: 400;
     font-size: 16px;
+   
     
+}
+
+ul{
+    padding-left: 0;
+}
+.list-div{
+    padding-left: 0;
+
+
 }
 
 /* my plan section */
@@ -242,35 +252,11 @@
 
 
 /* gradient image creat */
-
-/* #grad-img{
-    position: absolute;
-    margin-top: 100px;
-    margin-right:250px ;
-}
-.watch-img{position: absolute; background-image: url(../images/gradient2.png);
-
-}
-.grad{position: absolute;
-
+.watch-img{
+    position: relative;
+    
 }
 
-.image-title{
-    font-weight: 700;
-    font-size: 40px;
-    color: #FFFFFF;
-
-}
-.image-btn{
-    font-weight: 600;
-    font-size: 20px;
-    color: #F15B22;
-    text-align: center;
-    border-radius: 5px;
-    padding: 20px 36px;
-    background: #FFFFFF;
-
-} */
 
 
 /* footer section */
@@ -312,6 +298,7 @@
 .icon-image-twitter{
     margin-left: 18px;
     margin-right: 18px;
+    border: #151414 solid 1px;
 
 }
 
