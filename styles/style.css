@@ -1,7 +1,6 @@
 *{
 
     margin: 0;
-    /* font-family:'Work Sans'; */
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -34,11 +33,6 @@
     font-weight: 400;
     font-size: 16px;
     color: #444343;
-    /* padding-right: 230px;
-    padding-left: 876px;
-    padding-bottom: 32px; */
-    /* margin-top: 24px;
-    margin-left: 876px; */
     margin: 24px 230px 32px 825px;
     text-align: right;
 
@@ -98,8 +92,6 @@
 
 }
 .section-list{
-    /* font-weight: 400;
-    font-size: 16px; */
     color: #444343;
     list-style: none;
     text-align: left;
@@ -170,24 +162,6 @@ ul{
     display: flex;
     gap: 80px;
 }
-
-
-/*  box */
-/* .my-plan-web{
- 
-}
-
-.my-plan-java{
-    
-}
-.my-plan-smoke{
-    
-
-}
-
-.my-plan-ecom{
-
-} */
 
 /* my plan title */
 
